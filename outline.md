@@ -1,0 +1,8 @@
+- Intro
+- About the project
+- How I learned
+  - alongside General Assembly lessons & in HW
+        - mention Random Tarot
+- What I learned during Portfolio project
+  - bugs and what they taught me about the language
+- What I want to do with it next
