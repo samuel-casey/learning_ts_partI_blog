@@ -12,6 +12,8 @@ I'm currently enrolled in a General Assembly (GA) Software Engineering Bootcamp.
 
 Here's a snippet from my lecture notes on Arrays:
 
+![Screenshot of Notes](https://res.cloudinary.com/scimgcloud/image/upload/v1600800329/images-for-blogs/Screen_Shot_2020-09-22_at_2.43.43_PM_xpmimb.png)
+
 **2. Do my homework assignments in JavaScript first to think through the logic of the assignments.**
 
 - I find it easier to focus on learning the idiosyncrasies of a new language or library when I don't have to think about both the new syntax and the actual application logic
