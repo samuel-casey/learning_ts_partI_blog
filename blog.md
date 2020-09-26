@@ -1,6 +1,6 @@
 # Learning TypeScript: Part I
 
-This week, I built and deployed my first TypeScript project: a new [portfolio site](https://samcasey.life). Up until two weeks ago, I had only used JavaScript, JQuery, and React for web-development, but after watching [this video by Ben Awad](https://www.youtube.com/watch?v=bAB_nNf8-a0) where he mentions that after you learn TypeScript, developing in JavaScript will feel like "playing web-dev on hardcore mode", I decided it was worth learning. This blog covers how I've been teaching myself, what I've learned so far, and how I'm going to continue learning TypeScript.
+  This week, I built and deployed my first TypeScript project: a new [portfolio site](https://samcasey.life). Up until two weeks ago, I had only used JavaScript, JQuery, and React for web-development, but after watching [this video by Ben Awad](https://www.youtube.com/watch?v=bAB_nNf8-a0) where he mentions that after you learn TypeScript, developing in JavaScript will feel like "playing web-dev on hardcore mode", I decided it was worth learning. This blog covers how I've been teaching myself, what I've learned so far, and how I'm going to continue learning TypeScript.
 
 ## How I've been learning
 
@@ -22,7 +22,7 @@ Here's a snippet from my lecture notes on Arrays:
 
 - When I was first learning React, I started by rebuilding a tic-tac-toe game that I originally had built in JQuery, and found that process to be a great way of learning
   <br>
-- This homework [a random tarot card generator](https://github.com/samuel-casey/random-tarot) is an example of one of the homeworks I refactored
+- This homework, [a random tarot card generator],(https://github.com/samuel-casey/random-tarot) is an example of one of the homeworks I refactored
 
 **4. Google every single error I get and allow myself to go deep down rabbit holes while exploring solutions**
 
