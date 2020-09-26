@@ -56,15 +56,13 @@ The main things I've learned about TypeScript so far is how beneficial it will b
 
 **1. Build a project with TypeScript + React**
 
-- I was required to use JQuery for my portfolio site because of my GA assignment, but I don't think I'll ever use JQuery + TypeScript ever again, as React is a better front-end library
+- I was required to use JQuery for my portfolio site because of my GA assignment, but I don't think I'll ever use JQuery + TypeScript ever again, as React is my favorite front-end tool and it seems to have good support for TypeScript.
   <br>
-- The next project I want to build in React will consume data from a public API, and display it without much manipulation. I'll be building this project mainly to bolster my React skills and learn the intricacies of this specific API, but I'm going to use TypeScript for it as well
+- The next project I want to build in React will consume data from a public API, and display it using React. I'll be building this project mainly to bolster my React skills and learn the intricacies of this specific API, but I'm going to use TypeScript for it as well.
 
 **2. Build a fullstack project using TypeScript**
 
-- TypeScript is great for front-end development, but I'm most excited to start using it for the backend. A few months ago, I built an [app to help visualize realtime tide-levels](https://tides-vis.herokuapp.com) at any beach around the United States which probably would have been much easier in TypeScript.
-  <br>
-- The app is built in JavaScript, uses two APIs, and a Postgres database to find the closest beach that has reliable tide-level projections to any user-inputted location.
+- TypeScript is great for front-end development, but I'm most excited to start using it for the backend. A few months ago, I built an [app to help visualize realtime tide-levels](https://tides-vis.herokuapp.com) at any beach around the United States which probably would have been easier to debug in TypeScript.
   <br>
 - When writing the function to compare the timezone from the user's inputted location to the list of tide stations in my database, I spent hours debugging an issue that stemmed from me trying to compare a `number` to a `string`. If I had been using TypeScript for this project, I probably would have discovered this error sooner and saved myself a lot of time and a major headache.
 
