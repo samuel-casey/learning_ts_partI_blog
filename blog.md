@@ -1,6 +1,6 @@
 # Learning TypeScript: Part I
 
-<p>  This week, I built and deployed my first TypeScript project: a new [portfolio site](https://samcasey.life). Up until two weeks ago, I had only used JavaScript, JQuery, and React for web-development, but after watching [this video by Ben Awad](https://www.youtube.com/watch?v=bAB_nNf8-a0) where he mentions that after you learn TypeScript, developing in JavaScript will feel like "playing web-dev on hardcore mode", I decided it was worth learning. This blog covers how I've been teaching myself, what I've learned so far, and how I'm going to continue learning TypeScript</p>
+<p>   This week, I built and deployed my first TypeScript project: a new [portfolio site](https://samcasey.life). Up until two weeks ago, I had only used JavaScript, JQuery, and React for web-development, but after watching [this video by Ben Awad](https://www.youtube.com/watch?v=bAB_nNf8-a0) where he mentions that after you learn TypeScript, developing in JavaScript will feel like "playing web-dev on hardcore mode", I decided it was worth learning. This blog covers how I've been teaching myself, what I've learned so far, and how I'm going to continue learning TypeScript</p>
 
 ## How I've been learning
 
