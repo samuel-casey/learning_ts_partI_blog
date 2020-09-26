@@ -22,7 +22,7 @@ Here's a snippet from my lecture notes on Arrays:
 
 - When I was first learning React, I started by rebuilding a tic-tac-toe game that I originally had built in JQuery, and found that process to be a great way of learning
   <br>
-- This homework, [a random tarot card generator],(https://github.com/samuel-casey/random-tarot) is an example of one of the homeworks I refactored
+- This homework, [a random tarot card generator] ,(https://github.com/samuel-casey/random-tarot) is an example of one of the homeworks I refactored
 
 **4. Google every single error I get and allow myself to go deep down rabbit holes while exploring solutions**
 
