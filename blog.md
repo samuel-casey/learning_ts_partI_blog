@@ -1,6 +1,6 @@
 # Learning TypeScript: Part I
 
-<p>   This week, I built and deployed my first TypeScript project: a new [portfolio site](https://samcasey.life). Up until two weeks ago, I had only used JavaScript, JQuery, and React for web-development, but after watching [this video by Ben Awad](https://www.youtube.com/watch?v=bAB_nNf8-a0) where he mentions that after you learn TypeScript, developing in JavaScript will feel like "playing web-dev on hardcore mode", I decided it was worth learning. This blog covers how I've been teaching myself, what I've learned so far, and how I'm going to continue learning TypeScript</p>
+This week, I built and deployed my first TypeScript project: a new [portfolio site](https://samcasey.life). Up until two weeks ago, I had only used JavaScript, JQuery, and React for web-development, but after watching [this video by Ben Awad](https://www.youtube.com/watch?v=bAB_nNf8-a0) where he mentions that after you learn TypeScript, developing in JavaScript will feel like "playing web-dev on hardcore mode", I decided it was worth learning. This blog covers how I've been teaching myself, what I've learned so far, and how I'm going to continue learning TypeScript
 
 ## How I've been learning
 
@@ -24,7 +24,7 @@ When I was first learning React, I started by rebuilding a tic-tac-toe game that
 
 **4. Google every single error I get and allow myself to go deep down rabbit holes while exploring solutions**
 
-- Usually when I come across errors while developing, I look to find the quickest fix to my errors and keep moving forward once I find a fix. While learning TypeScript, however, I've been exploring multiple possible fixes, testing them more thoroughly, and making sure that I understand _why_ the solutions I find are fixing my errors, not just considering it "good enough" when I stop seeing error messages.
+Usually when I come across errors while developing, I look to find the quickest fix to my errors and keep moving forward once I find a fix. While learning TypeScript, however, I've been exploring multiple possible fixes, testing them more thoroughly, and making sure that I understand _why_ the solutions I find are fixing my errors, not just considering it "good enough" when I stop seeing error messages.
 
 ## What I've learned so far
 
