@@ -42,7 +42,7 @@ On my second go around with AJAX, after I had defined Interfaces for my Projects
 
 **1. Build a project with TypeScript + React**
 
-I was required to use JQuery for my portfolio site because of my GA assignment, but I don't think I'll ever use JQuery + TypeScript ever again, as React is my favorite front-end tool and it seems to have good support for TypeScript. The next project I want to build in React will consume data from a public API, and display it using React. I'll be building this project mainly to bolster my React skills and learn the intricacies of this specific API, but I'm going to use TypeScript for it as well.
+I was required to use JQuery for my portfolio site because of my GA assignment, but I don't think I'll ever use JQuery + TypeScript ever again, as React is my favorite front-end tool and it seems to have good support for TypeScript.
 
 **2. Build a fullstack project using TypeScript**
 
